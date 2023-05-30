@@ -1,5 +1,6 @@
 # JavaScriptPractice
 
+App Academy Practice Problems
 
 You're going to learn four steps to solve **any** problem. You read that right: you can apply these steps to ANY problem, from whiteboard interviews to building projects to refactoring legacy code.
 
