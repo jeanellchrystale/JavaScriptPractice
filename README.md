@@ -1,5 +1,5 @@
 # JavaScriptPractice
-You'll learn a lot here at App Academy but what do you do when you come across a problem you don't know how to solve?
+
 
 You're going to learn four steps to solve **any** problem. You read that right: you can apply these steps to ANY problem, from whiteboard interviews to building projects to refactoring legacy code.
 
